@@ -102,7 +102,7 @@ body{
     line-height: 80px;
     letter-spacing: -1px;
     text-align: left;
-
+    color: #02073E
 }
 
 .block-hero-content p{
@@ -112,6 +112,7 @@ body{
     letter-spacing: 0px;
     text-align: left;
     padding-bottom: 45px;
+    
 
 }
 
@@ -157,7 +158,134 @@ body{
         font-size: 40px;
     }
 }
+/* Block Hero middle start*/
+.block-hero-middle{
+    padding-top: 200px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.block-hero-middle h2{
+    height: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #02073E;
+}
+
+.block-hero-middle p{
+    width: 585px;
+    height: 70px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+.feauture-p{
+}
+.block-hero-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    padding-top: 30px;
+}
+
+.arrow p{
+    font-family: 'DM Sans' ,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.lamp p{
+    font-family: 'DM Sans' ,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.rocket p{
+    font-family: 'DM Sans' ,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.trophy p{
+    font-family: 'DM Sans' ,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+/*status start*/
+.status{
+    height: 960px;
+    padding: 0 200px;
+    display: flex;
+    justify-content: center;
+    background-color: #F9FAFC;
+    
+}
+
+.status-inner{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 45px;
+}
+
+.status-inner-number1{
+    height: 320px;
+    width: 300px;
+    background-color: #ffffff;
+    margin-top: 105px;
+}
+
+.status-inner-number2{
+    height: 320px;
+    width: 300px;
+    background-color: #ffffff;
+    margin-top: 105px;
+}
+
+.status-inner-number3{
+    height: 320px;
+    width: 300px;
+    background-color: #ffffff;
+    margin-bottom: 170px;
+}
+
+.status-inner-number4{
+    height: 320px;
+    width: 300px;
+    background-color: #ffffff;
+    margin-bottom: 170px;
+}
+
+
+/*status end*/
+/* Block Hero middle start*/
 /* Block Hero end*/
+
+
+
 
 
 
